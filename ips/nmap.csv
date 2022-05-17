@@ -1,0 +1,189 @@
+# Nmap 7.92 scan initiated Mon May 16 14:35:05 2022 as: nmap -iL input -oG output -sC -sV --top-ports 1000 -T4
+# Nmap 7.92 scan initiated Mon May 16 14:35:06 2022 as: nmap -iL input -oG output -sC -sV --top-ports 1000 -T4
+# Nmap done at Mon May 16 14:36:31 2022 -- 10 IP addresses (10 hosts up) scanned in 85.94 seconds
+# Nmap done at Mon May 16 14:38:48 2022 -- 9 IP addresses (9 hosts up) scanned in 223.82 seconds
+# Nmap done at Mon May 16 14:38:49 2022 -- 10 IP addresses (10 hosts up) scanned in 224.36 seconds
+# Nmap done at Mon May 16 14:38:51 2022 -- 10 IP addresses (10 hosts up) scanned in 224.63 seconds
+# Nmap done at Mon May 16 14:38:55 2022 -- 10 IP addresses (10 hosts up) scanned in 230.24 seconds
+# Nmap done at Mon May 16 14:38:55 2022 -- 10 IP addresses (10 hosts up) scanned in 230.65 seconds
+# Nmap done at Mon May 16 14:39:03 2022 -- 10 IP addresses (10 hosts up) scanned in 236.67 seconds
+# Nmap done at Mon May 16 14:39:06 2022 -- 10 IP addresses (10 hosts up) scanned in 241.53 seconds
+# Nmap done at Mon May 16 14:39:25 2022 -- 10 IP addresses (10 hosts up) scanned in 260.56 seconds
+Host: 185.61.96.65 ()	Ports: 80/open/tcp//http//Palo Alto GlobalProtect Gateway httpd/, 443/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/	Ignored State: filtered (998)
+Host: 185.61.96.65 ()	Status: Up
+Host: 185.61.96.66 ()	Ports: 80/open/tcp//http//Palo Alto GlobalProtect Gateway httpd/, 443/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/, 444/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/	Ignored State: filtered (997)
+Host: 185.61.96.66 ()	Status: Up
+Host: 185.61.96.96 ()	Ports: 80/open/tcp//http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/, 443/open/tcp//ssl|http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/	Ignored State: filtered (998)
+Host: 185.61.96.96 ()	Status: Up
+Host: 185.61.97.100 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.100 ()	Status: Up
+Host: 185.61.97.101 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.101 ()	Status: Up
+Host: 185.61.97.102 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.102 ()	Status: Up
+Host: 185.61.97.103 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.103 ()	Status: Up
+Host: 185.61.97.104 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.104 ()	Status: Up
+Host: 185.61.97.105 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.105 ()	Status: Up
+Host: 185.61.97.106 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.106 ()	Status: Up
+Host: 185.61.97.64 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.64 ()	Status: Up
+Host: 185.61.97.65 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.65 ()	Status: Up
+Host: 185.61.97.66 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.66 ()	Status: Up
+Host: 185.61.97.67 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.67 ()	Status: Up
+Host: 185.61.97.68 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.68 ()	Status: Up
+Host: 185.61.97.69 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.69 ()	Status: Up
+Host: 185.61.97.70 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.70 ()	Status: Up
+Host: 185.61.97.71 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.71 ()	Status: Up
+Host: 185.61.97.72 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.72 ()	Status: Up
+Host: 185.61.97.73 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.73 ()	Status: Up
+Host: 185.61.97.74 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.74 ()	Status: Up
+Host: 185.61.97.75 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.75 ()	Status: Up
+Host: 185.61.97.76 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.76 ()	Status: Up
+Host: 185.61.97.77 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.77 ()	Status: Up
+Host: 185.61.97.78 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.78 ()	Status: Up
+Host: 185.61.97.79 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.79 ()	Status: Up
+Host: 185.61.97.80 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.80 ()	Status: Up
+Host: 185.61.97.81 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.81 ()	Status: Up
+Host: 185.61.97.82 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.82 ()	Status: Up
+Host: 185.61.97.83 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.83 ()	Status: Up
+Host: 185.61.97.84 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.84 ()	Status: Up
+Host: 185.61.97.85 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.85 ()	Status: Up
+Host: 185.61.97.86 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.86 ()	Status: Up
+Host: 185.61.97.87 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.87 ()	Status: Up
+Host: 185.61.97.88 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.88 ()	Status: Up
+Host: 185.61.97.89 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.89 ()	Status: Up
+Host: 185.61.97.91 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.91 ()	Status: Up
+Host: 185.61.97.92 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.92 ()	Status: Up
+Host: 185.61.97.93 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.93 ()	Status: Up
+Host: 185.61.97.94 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.94 ()	Status: Up
+Host: 185.61.97.96 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.96 ()	Status: Up
+Host: 185.61.97.97 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.97 ()	Status: Up
+Host: 185.61.97.99 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (998)
+Host: 185.61.97.99 ()	Status: Up
+Host: 192.170.136.200 ()	Ports: 80/open/tcp//http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/, 443/open/tcp//ssl|http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/	Ignored State: filtered (998)
+Host: 192.170.136.200 ()	Status: Up
+Host: 192.170.136.201 ()	Ports: 443/open/tcp//ssl|http//Jetty 9.4.26.v20200117/	Ignored State: filtered (999)
+Host: 192.170.136.201 ()	Status: Up
+Host: 192.170.136.202 ()	Ports: 443/open/tcp//ssl|http//Jetty 9.4.26.v20200117/	Ignored State: filtered (999)
+Host: 192.170.136.202 ()	Status: Up
+Host: 192.170.137.100 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|http-proxy//F5 BIG-IP load balancer http proxy/, 465/closed/tcp//smtps///, 587/open/tcp//smtp//Microsoft Exchange smtpd/, 2525/closed/tcp//ms-v-worlds///	Ignored State: filtered (995)
+Host: 192.170.137.100 ()	Status: Up
+Host: 192.170.137.37 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.137.37 ()	Status: Up
+Host: 192.170.137.44 ()	Ports: 80/open/tcp//http?///, 443/open/tcp//ssl|https?///, 5222/open/tcp//tcpwrapped///	Ignored State: filtered (997)
+Host: 192.170.137.44 ()	Status: Up
+Host: 192.170.137.61 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.137.61 ()	Status: Up
+Host: 192.170.137.65 ()	Ports: 80/open/tcp//http//Palo Alto GlobalProtect Gateway httpd/, 443/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/	Ignored State: filtered (998)
+Host: 192.170.137.65 ()	Status: Up
+Host: 192.170.137.66 ()	Ports: 80/open/tcp//http//Palo Alto GlobalProtect Gateway httpd/, 443/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/, 444/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/	Ignored State: filtered (997)
+Host: 192.170.137.66 ()	Status: Up
+Host: 192.170.137.73 ()	Ports: 443/open/tcp//ssl|https?///	Ignored State: filtered (999)
+Host: 192.170.137.73 ()	Status: Up
+Host: 192.170.137.80 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.137.80 ()	Status: Up
+Host: 192.170.137.81 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.137.81 ()	Status: Up
+Host: 192.170.137.82 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.137.82 ()	Status: Up
+Host: 192.170.137.84 ()	Ports: 80/open/tcp//http//Duo|1.0/, 443/open/tcp//ssl|https//Duo|1.0/	Ignored State: filtered (998)
+Host: 192.170.137.84 ()	Status: Up
+Host: 192.170.137.85 ()	Ports: 80/open/tcp//http//Duo|1.0/, 443/open/tcp//ssl|https//Duo|1.0/	Ignored State: filtered (998)
+Host: 192.170.137.85 ()	Status: Up
+Host: 192.170.137.91 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//tcpwrapped///	Ignored State: filtered (998)
+Host: 192.170.137.91 ()	Status: Up
+Host: 192.170.138.100 ()	Ports: 25/open/tcp//smtp//Microsoft Exchange smtpd/, 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|http-proxy//F5 BIG-IP load balancer http proxy/, 465/closed/tcp//smtps///, 587/open/tcp//smtp//Microsoft Exchange smtpd/, 2525/closed/tcp//ms-v-worlds///	Ignored State: filtered (994)
+Host: 192.170.138.100 ()	Status: Up
+Host: 192.170.138.37 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.138.37 ()	Status: Up
+Host: 192.170.138.66 ()	Ports: 80/open/tcp//http//Palo Alto GlobalProtect Gateway httpd/, 443/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/, 444/open/tcp//ssl|http//Palo Alto GlobalProtect Gateway httpd/	Ignored State: filtered (997)
+Host: 192.170.138.66 ()	Status: Up
+Host: 192.170.138.80 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.138.80 ()	Status: Up
+Host: 192.170.138.81 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.138.81 ()	Status: Up
+Host: 192.170.138.82 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|https//BigIP/	Ignored State: filtered (998)
+Host: 192.170.138.82 ()	Status: Up
+Host: 192.170.138.84 ()	Ports: 80/open/tcp//http//Duo|1.0/, 443/open/tcp//ssl|https//Duo|1.0/	Ignored State: filtered (998)
+Host: 192.170.138.84 ()	Status: Up
+Host: 199.102.233.71 ()	Ports: 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (999)
+Host: 199.102.233.71 ()	Status: Up
+Host: 199.102.234.100 ()	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.100 ()	Status: Up
+Host: 199.102.234.101 (tpweb11w.travelpod.com)	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.101 (tpweb11w.travelpod.com)	Status: Up
+Host: 199.102.234.102 (tpweb12w.travelpod.com)	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.102 (tpweb12w.travelpod.com)	Status: Up
+Host: 199.102.234.103 (tpweb13w.travelpod.com)	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.103 (tpweb13w.travelpod.com)	Status: Up
+Host: 199.102.234.104 (tpweb14w.travelpod.com)	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.104 (tpweb14w.travelpod.com)	Status: Up
+Host: 199.102.234.111 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.111 ()	Status: Up
+Host: 199.102.234.112 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.112 ()	Status: Up
+Host: 199.102.234.31 (www.tripadvisor.com)	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.31 (www.tripadvisor.com)	Status: Up
+Host: 199.102.234.32 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.32 ()	Status: Up
+Host: 199.102.234.33 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.33 ()	Status: Up
+Host: 199.102.234.36 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.36 ()	Status: Up
+Host: 199.102.234.37 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (998)
+Host: 199.102.234.37 ()	Status: Up
+Host: 199.102.234.42 ()	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.42 ()	Status: Up
+Host: 199.102.234.43 ()	Ports: 80/open/tcp//http//envoy/, 443/open/tcp//ssl|https//envoy/	Ignored State: filtered (998)
+Host: 199.102.234.43 ()	Status: Up
+Host: 199.102.234.64 ()	Ports: 80/open/tcp//http//nginx 1.12.2/, 443/open/tcp//ssl|http//nginx 1.12.2/	Ignored State: filtered (998)
+Host: 199.102.234.64 ()	Status: Up
+Host: 199.102.234.71 ()	Ports: 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (999)
+Host: 199.102.234.71 ()	Status: Up
+Host: 199.102.234.78 (opshttplb.a.tripadvisor.com)	Ports: 80/open/tcp//http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/, 443/open/tcp//ssl|http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/	Ignored State: filtered (998)
+Host: 199.102.234.78 (opshttplb.a.tripadvisor.com)	Status: Up
+Host: 199.102.234.80 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|http//Jetty 9.4.26.v20200117/	Ignored State: filtered (998)
+Host: 199.102.234.80 ()	Status: Up
+Host: 199.102.235.172 ()	Ports: 443/open/tcp//ssl|http//Apache httpd/	Ignored State: filtered (999)
+Host: 199.102.235.172 ()	Status: Up
+Host: 199.102.235.174 ()	Ports: 80/open/tcp//http//nginx 1.20.1/, 443/open/tcp//ssl|http//nginx 1.20.1/, 873/open/tcp//rsync//(protocol version 31)/	Ignored State: filtered (997)
+Host: 199.102.235.174 ()	Status: Up
+Host: 199.102.235.176 ()	Ports: 80/open/tcp//http//nginx 1.12.2/, 443/open/tcp//ssl|http//nginx 1.12.2/	Ignored State: filtered (998)
+Host: 199.102.235.176 ()	Status: Up
+Host: 199.102.235.177 (opshttplb.d.tripadvisor.com)	Ports: 80/open/tcp//http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/, 443/open/tcp//ssl|http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/	Ignored State: filtered (998)
+Host: 199.102.235.177 (opshttplb.d.tripadvisor.com)	Status: Up

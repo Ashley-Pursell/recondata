@@ -1,0 +1,802 @@
+[url] - [code-200] - https://dev.housetrip.com
+[subdomains] - https://support.housetrip.com
+[subdomains] - https://blog.housetrip.com
+[href] - https://dev.housetrip.com/stylesheets/main.css
+[href] - https://dev.housetrip.com/feed.xml
+[href] - https://dev.housetrip.com/images/site/favicon.ico
+[href] - https://dev.housetrip.com/2015/11/25/abtesting-from-scratch
+[href] - https://dev.housetrip.com/2015/02/20/underscorejs-fetch
+[href] - https://dev.housetrip.com/2014/11/25/calendar-refactoring
+[href] - https://dev.housetrip.com/2014/10/20/learning-to-rank
+[href] - http://dec0de.me/2014/10/learning-to-rank-1/
+[href] - https://github.com/mottalrd
+[href] - https://github.com/mrship
+[href] - http://github.com/mezis
+[href] - https://dev.housetrip.com/2014/09/29/search-page-performance
+[href] - https://dev.housetrip.com/2014/09/20/resn-routemaster
+[href] - https://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern
+[href] - https://dev.housetrip.com/2014/09/12/writing-specs-without-rails
+[href] - https://dev.housetrip.com/2014/08/08/compute-property-recommendations
+[href] - https://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql
+[href] - https://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku
+[href] - https://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins
+[href] - https://dev.housetrip.com/2014/06/13/go-in-ruby
+[href] - https://dev.housetrip.com/2014/05/22/page-objects
+[href] - https://dev.housetrip.com/2014/05/08/benchmark-your-gems
+[href] - https://dev.housetrip.com/2014/04/22/nested-resources-with-backbone
+[href] - https://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors
+[href] - https://dev.housetrip.com/2014/04/07/a-take-on-docs
+[href] - https://dev.housetrip.com/2014/04/01/regaining-lost-memories
+[href] - https://dev.housetrip.com/2014/03/27/rack-timer
+[href] - https://github.com/mezis/rack-timer
+[href] - https://dev.housetrip.com/2014/03/24/ruby-pid-tip
+[href] - https://github.com/HouseTrip/babushka-deps/blob/master/erb/kalinka.erb
+[href] - https://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids
+[href] - https://dev.housetrip.com/2014/03/12/continuous-deployment
+[href] - https://dev.housetrip.com/2014/02/04/homogenizing-your-codebase
+[href] - https://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby
+[href] - https://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer
+[href] - http://ptsochantaris.github.io/trailer/
+[href] - https://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications
+[href] - https://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch
+[href] - https://dev.housetrip.com/2014/01/14/session-store-and-security
+[href] - https://dev.housetrip.com/2014/01/13/dragonfly-activerecord
+[href] - https://github.com/markevans/dragonfly
+[href] - https://github.com/mezis/dragonfly-activerecord
+[href] - http://rtomayko.github.io/rack-cache/
+[href] - https://dev.housetrip.com/2014/01/06/rebund
+[href] - http://github.com/mezis/rebund
+[href] - https://travis-ci.org/
+[href] - https://dev.housetrip.com/2013/11/29/good-readmes
+[href] - https://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us
+[href] - https://dev.housetrip.com/2013/11/15/data-tiering
+[href] - https://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir
+[href] - https://dev.housetrip.com/2013/10/29/scala-from-ruby
+[href] - https://dev.housetrip.com/2013/10/11/git-whistles
+[href] - https://dev.housetrip.com/2013/10/07/polygon-tools
+[href] - https://dev.housetrip.com/2013/10/01/faster-git-workflow
+[href] - https://dev.housetrip.com/2013/09/12/monitoring-jobs
+[href] - https://github.com/collectiveidea/delayed_job
+[href] - https://github.com/collectiveidea/delayed_job_mongoid
+[href] - https://github.com/etsy/statsd/
+[href] - http://www.datadoghq.com
+[href] - https://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9
+[href] - https://dev.housetrip.com/2013/08/21/testing-active-resource-models
+[href] - https://dev.housetrip.com/2013/07/02/maintaining-code-quality
+[href] - https://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx
+[href] - http://pow.cx/
+[href] - http://nginx.org
+[href] - http://mxcl.github.io/homebrew/
+[href] - https://github.com/sstephenson/rbenv
+[href] - https://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby
+[href] - https://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha
+[href] - https://dev.housetrip.com/2013/05/20/dci-at-lrug
+[href] - http://lrug.org
+[href] - http://skillsmatter.com/podcast/home/dci-with-ruby-rails
+[href] - http://www.slideshare.net/viliander/dci-with-ruby-and-rails
+[href] - http://github.com/dawid-sklodowski
+[href] - https://dev.housetrip.com/2013/05/13/git-stashing
+[href] - https://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching
+[href] - http://github.com/mezis/fuzzily
+[href] - http://github.com/mezis/blurrily
+[href] - https://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite
+[href] - https://github.com/mezis/mrd
+[href] - https://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all
+[href] - http://en.wikipedia.org/wiki/Don't_repeat_yourself
+[href] - https://github.com/37signals/sub
+[href] - http://37signals.com/svn/posts/3264-automating-with-convention-introducing-sub
+[href] - http://code.google.com/p/gource/
+[href] - https://plus.google.com/107981766773306423214?rel=author
+[href] - https://dev.housetrip.com/2013/04/19/mysql-order-by-null
+[href] - http://dev.mysql.com/doc/refman/5.0/en/multiple-column-indexes.html
+[href] - http://dev.mysql.com/doc/refman/5.0/en/order-by-optimization.html
+[href] - http://s.petrunia.net/blog/?p=24
+[href] - http://github.com/marcusleemitchell
+[href] - https://dev.housetrip.com/2012/06/15/good-looking-css-tabs
+[href] - https://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog
+[href] - http://housetrip.com/en/about/housetrip
+[href] - https://support.housetrip.com/forums
+[href] - http://blog.housetrip.com/team/housetrip-jobs
+[href] - http://twitter.com/housetrip
+[href] - http://housetrip.com/en/about/terms_and_conditions
+[href] - http://housetrip.com/en/about/privacy_policy
+[href] - https://dev.housetrip.com/
+[url] - [code-200] - https://dev.housetrip.com/
+[href] - https://github.com/HouseTrip/babushka-deps/blob/master/erb/kalinka.erb
+[href] - http://en.wikipedia.org/wiki/Don't_repeat_yourself
+[url] - [code-200] - https://dev.housetrip.com/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2015/02/20/underscorejs-fetch/
+[href] - http://ruby-doc.org/core-2.2.0/Hash.html
+[href] - http://underscorejs.org/
+[href] - https://github.com/mottalrd/underscore-fetch
+[href] - https://github.com/mottalrd/underscore-fetch/blob/master/spec/underscore-fetch_spec.js
+[href] - http://www.alfredo.motta.name
+[href] - http://disqus.com
+[href] - https://dev.housetrip.com/2015/02/20/underscorejs-fetch/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/
+[href] - https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+[href] - http://radio.uxder.com/
+[href] - http://amplifyjs.com/api/pubsub/
+[href] - http://github.com/eparreno
+[href] - https://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/10/20/learning-to-rank/
+[url] - [code-200] - https://dev.housetrip.com/2014/09/12/writing-specs-without-rails/
+[href] - https://dev.housetrip.com/2014/10/20/learning-to-rank/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2015/11/25/abtesting-from-scratch/
+[href] - http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/
+[href] - http://alistair.cockburn.us/Hexagonal+architecture
+[href] - https://github.com/rspec/rspec-rails
+[href] - https://github.com/HouseTrip/spec_requirer
+[href] - http://teamcoding.com
+[href] - https://dev.housetrip.com/2014/09/12/writing-specs-without-rails/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/11/25/calendar-refactoring/
+[url] - [code-200] - https://dev.housetrip.com/2014/09/29/search-page-performance/
+[href] - https://dev.housetrip.com
+[href] - http://vimeo.com/12350535
+[href] - http://goruco.com/
+[href] - http://books.google.co.uk/books/about/Structured_design.html?id=zMQmAAAAMAAJ
+[href] - http://books.google.co.uk/books/about/Growing_Object_Oriented_Software_Guided.html?id=QJA3dM8Uix0C
+[href] - http://onsmalltalk.com/objects-should-be-composable
+[href] - http://foxrunsoftware.github.io/DatePicker/
+[href] - https://github.com/es-analysis/plato
+[href] - http://goo.gl/V1nNa6
+[href] - http://foxrunsoftware.github.io/DatePicker/
+[href] - http://robots.thoughtbot.com/sandi-metz-rules-for-developers
+[href] - https://dev.housetrip.com/2014/11/25/calendar-refactoring/feed.xml
+[subdomains] - https://www.housetrip.com
+[href] - http://link.springer.com/article/10.1007%2Fs10618-008-0114-1
+[href] - https://dev.housetrip.com/2014/09/29/search-page-performance/housetrip.com/en/search-holiday-apartments/london
+[href] - https://developer.chrome.com/devtools/docs/timeline
+[href] - https://dev.housetrip.com/images/2014-09-10-search-page-performance-front-end.png
+[href] - http://newrelic.com/
+[href] - https://dev.housetrip.com/images/2014-09-10-search-page-performance-backend.png
+[href] - http://www.housetrip.com/en/search-holiday-apartments/london
+[href] - https://dev.housetrip.com/images/2014-09-10-search-page-performance-backend_details.png
+[href] - https://dev.housetrip.com/images/2014-09-10-search-page-performance-filters.png
+[href] - http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html
+[href] - https://dev.housetrip.com/2014/09/29/search-page-performance/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/08/08/compute-property-recommendations/
+[href] - http://www.housetrip.com/en/rentals/119143
+[href] - http://dl.acm.org/citation.cfm?id=138867
+[href] - http://dl.acm.org/citation.cfm?id=192905
+[href] - http://www.recsyswiki.com/wiki/MovieLens
+[href] - http://recsys.acm.org/
+[href] - http://www.springer.com/computer/ai/book/978-0-387-85819-7
+[href] - http://en.wikipedia.org/wiki/Music_Genome_Project
+[href] - http://www.netflixprize.com/
+[href] - http://hadoop.apache.org/
+[href] - https://mahout.apache.org/
+[href] - http://pig.apache.org/
+[href] - http://aws.amazon.com/elasticmapreduce/
+[href] - http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-hadoop-version.html
+[href] - http://wiki.apache.org/pig/UDFManual
+[href] - https://cwiki.apache.org/confluence/display/PIG/PiggyBank
+[href] - http://dl.acm.org/citation.cfm?id=312682
+[href] - https://dev.housetrip.com/2014/08/08/compute-property-recommendations/feed.xml
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/abtestingexample.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/table.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/populationA.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/populationB.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/binomial_formula.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/binomial_example.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/ab_testing_binomial_distributions.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt1.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt2.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt3.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt4.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/quantitative_evaluation1.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/quantitative_evaluation2.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_1.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_2.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_3.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_4.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_5.png
+[href] - https://analytics.google.com
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size1.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size2.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size3.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size4.png
+[href] - https://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size5.png
+[href] - https://twitter.com/mottalrd
+[href] - https://en.wikipedia.org/wiki/A/B_testing
+[href] - https://en.wikipedia.org/wiki/Urn_problem
+[href] - https://en.wikipedia.org/wiki/Binomial_distribution
+[href] - https://en.wikipedia.org/wiki/Probability_mass_function
+[href] - https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
+[href] - https://en.wikipedia.org/wiki/Central_limit_theorem
+[href] - http://stattrek.com/sampling/sampling-distribution.aspx
+[href] - http://projecteuclid.org/euclid.ss/1177013818
+[href] - http://www.jstor.org/stable/2331945
+[href] - http://www.jstor.org/stable/2235609?seq=1
+[href] - http://www.springer.com/gb/book/9780387988641
+[href] - http://onlinestatbook.com/2/logic_of_hypothesis_testing/tails.html
+[href] - https://en.wikipedia.org/wiki/P-value
+[href] - https://en.wikipedia.org/wiki/Quantile
+[href] - https://en.wikipedia.org/wiki/Binomial_test
+[href] - http://stats.stackexchange.com/questions/44125/is-there-an-error-in-the-one-sided-binomial-test-in-r
+[href] - http://www.polyu.edu.hk/mm/effectsizefaqs/thresholds_for_interpreting_effect_sizes2.html
+[href] - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444174/
+[href] - http://stats.stackexchange.com/questions/91630/book-recommendation-sample-size-determination-for-hypothesis-testing-of-the-mea
+[href] - http://stats.stackexchange.com/questions/21237/calculating-statistical-power/21243
+[href] - http://www.itl.nist.gov/div898/handbook/prc/section2/prc242.htm
+[href] - http://www.evanmiller.org/ab-testing/sample-size.html
+[href] - https://gist.github.com/mottalrd/7ddfd45d14bc7433dec2
+[href] - http://www-users.cs.umn.edu/~ludford/stat_overview.htm
+[href] - https://dev.housetrip.com/2015/11/25/abtesting-from-scratch/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/09/20/resn-routemaster/
+[href] - http://en.wikipedia.org/wiki/Representational_state_transfer
+[href] - http://en.wikipedia.org/wiki/Domain-driven_design
+[href] - http://martinfowler.com/bliki/CQRS.html
+[href] - http://www.infoq.com/news/2014/08/failing-microservices
+[href] - http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html
+[href] - http://en.wikipedia.org/wiki/Resource-oriented_architecture
+[href] - http://martinfowler.com/articles/microservices.html
+[href] - https://speakerdeck.com/mattheath/youre-good-to-go
+[href] - http://martinfowler.com/eaaCatalog/serviceLayer.html
+[href] - http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
+[href] - http://www.cse.unsw.edu.au/~cs9243/14s1/papers/fallacies.pdf
+[href] - http://en.wikipedia.org/wiki/Eventual_consistency
+[href] - http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+[href] - https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers
+[href] - http://en.wikipedia.org/wiki/Reactor_pattern
+[href] - http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+[href] - http://celluloid.io/
+[href] - https://github.com/eventmachine/eventmachine
+[href] - https://github.com/krisleech/wisper
+[href] - https://pusher.com/
+[href] - http://en.wikipedia.org/wiki/Server-sent_events
+[href] - http://redis.io/topics/pubsub
+[href] - http://dl.acm.org/citation.cfm?doid=225014.225031
+[href] - http://github.com/housetrip/routemaster
+[href] - http://en.wikipedia.org/wiki/Eventual_consistency
+[href] - https://github.com/HouseTrip/routemaster-client
+[href] - https://github.com/HouseTrip/routemaster-drain
+[href] - https://dev.housetrip.com/2014/09/20/resn-routemaster/feed.xml
+[subdomains] - https://dev.housetrip.com
+[url] - [code-200] - https://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql/
+[href] - https://www.docker.com/whatisdocker/
+[href] - http://www.fig.sh/
+[href] - https://docs.docker.com/installation/
+[href] - https://github.com/noplay/docker-osx
+[href] - http://www.fig.sh/install.html
+[href] - http://github.com/thejspr
+[href] - https://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/05/22/page-objects/
+[href] - http://martinfowler.com/bliki/PageObject.html
+[href] - https://github.com/natritmeyer/site_prism
+[href] - https://plus.google.com/u/0/104356313878293638468?rel=author
+[href] - https://dev.housetrip.com/2014/05/22/page-objects/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku/
+[href] - http://12factor.net/
+[href] - https://www.digitalocean.com/community/tutorials/how-to-use-the-dokku-one-click-digitalocean-image-to-run-a-ruby-on-rails-app
+[href] - https://github.com/progrium/dokku
+[href] - https://github.com/Kloadut/dokku-pg-plugin
+[href] - https://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/06/13/go-in-ruby/
+[href] - https://github.com/celluloid/celluloid/wiki/Futures
+[href] - https://github.com/lostisland/faraday/wiki/Parallel-requests
+[href] - https://github.com/pry/pry
+[href] - http://12factor.net/concurrency
+[href] - https://github.com/igrigorik/agent/
+[href] - http://stackoverflow.com/questions/14455293/async-and-await
+[href] - https://dev.housetrip.com/2014/06/13/go-in-ruby/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins/
+[url] - [code-200] - https://dev.housetrip.com/2014/05/08/benchmark-your-gems/
+[href] - http://matt.coneybeare.me/how-to-convert-simple-rails-23-style-plugins/
+[href] - http://guides.rubyonrails.org/v2.3.11/plugins.html
+[href] - http://railscasts.com/episodes/149-rails-engines
+[href] - https://www.mikeperham.com/2009/04/18/engines-in-rails-23/
+[href] - https://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins/feed.xml
+[href] - http://www.ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html
+[href] - https://github.com/davidslv
+[href] - https://dev.housetrip.com/2014/05/08/benchmark-your-gems/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors/
+[href] - https://dev.housetrip.com/blobs/2014-04-05/f1-race-results.zip
+[href] - http://localhost:3000/iframe
+[href] - https://en.wikipedia.org/wiki/AJAJ
+[href] - http://microformats.org/wiki/rest/ahah
+[href] - http://localhost:3000/ajax
+[href] - http://dev.housetrip.com/2014/01/14/session-store-and-security/
+[href] - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Same_origin_policy_for_JavaScript
+[href] - https://tools.ietf.org/html/rfc6454
+[href] - http://www.json-p.org/
+[href] - http://localhost/jsonp
+[href] - http://www.w3.org/TR/cors/
+[href] - http://localhost/cors
+[href] - http://www.w3.org/TR/access-control/
+[href] - http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/
+[href] - http://www.w3.org/TR/cors/
+[href] - https://github.com/cyu/rack-cors
+[href] - http://aws.amazon.com/es/s3/
+[href] - http://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html
+[href] - https://developers.google.com/storage/docs/cross-origin?hl=es
+[href] - https://code.google.com/p/chromium/issues/detail?id=96007
+[href] - http://stackoverflow.com/questions/15115746/why-chrome-cancel-cors-option-request
+[href] - http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx
+[href] - http://blogs.msdn.com/b/ie/archive/2012/02/09/cors-for-xhr-in-ie10.aspx
+[href] - http://www.housetrip.com
+[href] - http://dncrht.github.io
+[href] - https://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/04/07/a-take-on-docs/
+[href] - https://twitter.com/nilanp
+[href] - http://github.com/HouseTrip/guidelines
+[href] - http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/
+[href] - http://dev.housetrip.com/2013/11/29/good-readmes/
+[href] - https://github.com/HouseTrip/routemaster
+[href] - https://twitter.com/mezis_fr
+[href] - https://dev.housetrip.com/2014/04/07/a-take-on-docs/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/04/01/regaining-lost-memories/
+[href] - http://www.joedog.org/siege-home/
+[href] - https://github.com/cromega
+[href] - https://dev.housetrip.com/2014/04/01/regaining-lost-memories/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/04/22/nested-resources-with-backbone/
+[href] - http://stackoverflow.com/questions/8332249/backbone-and-rails-nested-routes
+[href] - http://stackoverflow.com/questions/6838241/how-do-i-define-nested-resources-for-backbone-js
+[href] - http://backbonerelational.org/
+[href] - http://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+[href] - https://dev.housetrip.com/2014/04/22/nested-resources-with-backbone/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/03/27/rack-timer/
+[href] - http://blog.newrelic.com/2013/01/22/understanding-new-relic-queuing/
+[href] - http://www.r-project.org/
+[href] - https://github.com/oggy/rack_after_reply
+[href] - https://dev.housetrip.com/2014/03/27/rack-timer/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids/
+[href] - http://rvm.io/
+[href] - https://github.com/sstephenson/ruby-build
+[href] - https://github.com/sstephenson/rbenv-gem-rehash
+[href] - https://github.com/sstephenson/rbenv-default-gems
+[href] - https://github.com/sstephenson/rbenv-vars
+[href] - http://tmm1.net/ruby21-rgengc/
+[href] - http://sstephenson.us
+[href] - https://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/03/24/ruby-pid-tip/
+[href] - https://github.com/HouseTrip/babushka-deps/blob/master/erb/kalinka.erb
+[href] - http://www.manpages.info/linux/ps.1.html
+[href] - http://pubs.opengroup.org/onlinepubs/9699919799/functions/kill.html
+[href] - https://github.com/HouseTrip/babushka-deps/blob/f6c016eff2cd9ec7dae846c8eabf4de45f10ae17/lib/single_run_protector.rb
+[href] - https://dev.housetrip.com/2014/03/24/ruby-pid-tip/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby/
+[href] - https://rubygems.org/gems/remote_lock
+[href] - https://github.com/HouseTrip/remote_lock
+[href] - http://github.com/pedrocunha
+[href] - https://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/03/12/continuous-deployment/
+[href] - http://docs.travis-ci.com/user/deployment/heroku/
+[href] - http://docs.travis-ci.com/user/notifications
+[href] - http://github.com/sdorunga1
+[href] - https://dev.housetrip.com/2014/03/12/continuous-deployment/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/
+[url] - [code-200] - https://dev.housetrip.com/2014/02/04/homogenizing-your-codebase/
+[href] - https://github.com/HouseTrip/guidelines/blob/master/ruby.md
+[href] - https://github.com/HouseTrip/ruby-style-guide
+[href] - https://github.com/HouseTrip/guidelines/blob/master/rails.md
+[href] - https://github.com/HouseTrip/guidelines/blob/master/sass-css.md
+[href] - https://github.com/HouseTrip/guidelines/blob/master/javascript.md
+[href] - http://github.com/ptsochantaris
+[href] - https://github.com/airbnb/javascript
+[href] - https://github.com/HouseTrip/guidelines/blob/master/backbone.md
+[href] - https://dev.housetrip.com/2014/02/04/homogenizing-your-codebase/feed.xml
+[href] - https://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications/
+[href] - http://getbootstrap.com
+[href] - https://github.com/HouseTrip/sass-style-guide
+[href] - http://backbonejs.org
+[href] - http://angularjs.org
+[href] - http://emberjs.com
+[href] - http://requirejs.org
+[href] - http://browserify.org
+[href] - http://en.wikipedia.org/wiki/You_aren't_gonna_need_it
+[href] - https://github.com/HouseTrip/backbone-style-guide
+[href] - https://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch/
+[href] - http://en.wikipedia.org/wiki/Design_Patterns
+[href] - http://en.wikipedia.org/wiki/Singleton_pattern
+[href] - http://ruby-doc.org/stdlib-2.1.0/libdoc/singleton/rdoc/Singleton.html
+[href] - http://www.ruby-doc.org/core-2.1.0/ObjectSpace.html
+[href] - https://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/14/session-store-and-security/
+[url] - [code-200] - https://dev.housetrip.com/2014/01/13/dragonfly-activerecord/
+[href] - https://dev.housetrip.com/2014/01/13/dragonfly-activerecord/feed.xml
+[href] - https://dev.housetrip.com/images/2013-11-24/sessions.zip
+[href] - https://dev.housetrip.com/2014/01/14/session-store-and-security/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us/
+[href] - http://github.com/dragosmiron
+[href] - https://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2014/01/06/rebund/
+[url] - [code-200] - https://dev.housetrip.com/2013/11/15/data-tiering/
+[href] - http://en.wikipedia.org/wiki/Multiple_buffering
+[href] - https://dev.housetrip.com/2013/11/15/data-tiering/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/11/29/good-readmes/
+[href] - https://github.com/mislav/will_paginate
+[href] - https://github.com/mperham/sidekiq
+[href] - https://github.com/discourse/discourse
+[href] - https://dev.housetrip.com/2013/11/29/good-readmes/feed.xml
+[href] - http://github.com/mezis/appfab
+[href] - https://github.com/data-axle/bundle_cache
+[href] - http://about.travis-ci.org/docs/user/caching/
+[href] - https://github.com/mezis/rebund
+[href] - https://dev.housetrip.com/2014/01/06/rebund/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir/
+[url] - [code-200] - https://dev.housetrip.com/2013/10/07/polygon-tools/
+[href] - https://github.com/git/git/tree/master/contrib
+[href] - https://github.com/git/git/blob/master/contrib/workdir/git-new-workdir
+[href] - https://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/10/29/scala-from-ruby/
+[href] - https://www.coursera.org/course/progfun
+[href] - http://docs.scala-lang.org/tutorials/
+[href] - http://horstmann.com/scala/
+[href] - http://twitter.github.io/scala_school/
+[href] - https://github.com/Karlotcha
+[href] - https://github.com/Karlotcha
+[href] - https://dev.housetrip.com/2013/10/29/scala-from-ruby/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/10/11/git-whistles/
+[href] - https://rubygems.org/gems/git-whistles
+[href] - https://github.com/mezis/git-whistles
+[href] - https://dev.housetrip.com/2013/10/11/git-whistles/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/09/12/monitoring-jobs/
+[href] - http://rake.rubyforge.org
+[href] - https://www.ruby-toolbox.com/categories/Background_Jobs
+[href] - https://github.com/resque/resque
+[href] - http://sidekiq.org
+[href] - http://rubydoc.info/gems/delayed_job/
+[href] - https://en.wikipedia.org/wiki/Nice_(Unix)
+[href] - https://github.com/mperham/sidekiq/wiki/Batches
+[href] - http://www.nagios.org
+[href] - https://newrelic.com/docs/site/apdex-measuring-user-satisfaction
+[href] - https://dev.housetrip.com/2013/09/12/monitoring-jobs/feed.xml
+[href] - http://developers.google.com/maps/documentation/javascript/
+[href] - http://www.housetrip.com/en/lake-como-italy
+[href] - https://github.com/dawid-sklodowski
+[href] - https://dev.housetrip.com/2013/10/07/polygon-tools/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/08/21/testing-active-resource-models/
+[href] - https://github.com/vcr/vcr
+[href] - https://dev.housetrip.com/2013/08/21/testing-active-resource-models/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/05/13/git-stashing/
+[href] - https://github.com/gnagno
+[href] - https://dev.housetrip.com/2013/05/13/git-stashing/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/05/20/dci-at-lrug/
+[href] - https://dev.housetrip.com/2013/05/20/dci-at-lrug/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha/
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/dchelimsky/RSpec-Rails/blob/v1.3.4/lib/spec/Rails/example/cookies_proxy.rb
+[href] - https://github.com/dchelimsky/RSpec-Rails/blob/v1.3.4/lib/spec/Rails/example/functional_example_group.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/lib/action_controller/test_case.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/lib/action_controller/test_process.rb
+[href] - http://github.com/nas
+[href] - https://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby/
+[href] - http://github.com/dawid-sklodowski/runtime-extends
+[href] - https://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching/
+[href] - https://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/10/01/faster-git-workflow/
+[href] - https://github.com/thejspr/dotfiles/blob/master/gitconfig
+[href] - https://dev.housetrip.com/2013/10/01/faster-git-workflow/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/04/19/mysql-order-by-null/
+[href] - https://dev.housetrip.com/2013/04/19/mysql-order-by-null/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all/
+[href] - http://en.wikipedia.org/wiki/Don't_repeat_yourself
+[href] - https://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9/
+[href] - https://github.com/ohler55/oj
+[href] - http://www.ohler.com/dev/oj_misc/performance_strict.html
+[href] - https://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx/
+[href] - http://37signals.com
+[href] - http://pow.cx
+[href] - http://pow.cx/manual.html
+[href] - http://gembundler.com/
+[href] - http://wellbredgrapefruit.com/blog/2012/09/25/zsh/
+[href] - https://gist.github.com/matthutchinson/5815393
+[href] - https://gist.github.com/matthutchinson/5822750
+[href] - https://gist.github.com/matthutchinson/5815498
+[href] - https://github.com/mon-ouie/pry-remote
+[href] - https://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/07/02/maintaining-code-quality/
+[href] - https://github.com/HouseTrip/ruby-style-guide
+[href] - https://github.com/HouseTrip/css-style-guide
+[href] - https://github.com/HouseTrip/rails-style-guide
+[href] - https://dev.housetrip.com/2013/07/02/maintaining-code-quality/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2012/06/15/good-looking-css-tabs/
+[href] - http://jsfiddle.net/dmiron/JU5fx/1/
+[href] - https://dev.housetrip.com/2012/06/15/good-looking-css-tabs/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite/
+[href] - https://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/11/29/good-readmes/
+[href] - http://dev.housetrip.com/stylesheets/main.css
+[href] - http://dev.housetrip.com/feed.xml
+[href] - http://dev.housetrip.com/images/site/favicon.ico
+[href] - http://dev.housetrip.com/2013/11/29/good-readmes
+[href] - http://dev.housetrip.com/2013/11/29/good-readmes/feed.xml
+[href] - http://dev.housetrip.com/
+[url] - [code-200] - https://dev.housetrip.com/blobs/2014-04-05/f1-race-results.zip
+[url] - [code-200] - http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/
+[href] - http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer
+[href] - http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog/
+[href] - https://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/14/session-store-and-security/
+[href] - http://dev.housetrip.com/2014/01/14/session-store-and-security
+[href] - http://dev.housetrip.com/images/2013-11-24/sessions.zip
+[href] - http://dev.housetrip.com/2014/01/14/session-store-and-security/feed.xml
+[url] - [code-200] - https://dev.housetrip.com/images/2013-11-24/sessions.zip
+[url] - [code-200] - http://dev.housetrip.com/
+[href] - http://dev.housetrip.com/2015/11/25/abtesting-from-scratch
+[href] - http://dev.housetrip.com/2015/02/20/underscorejs-fetch
+[href] - http://dev.housetrip.com/2014/11/25/calendar-refactoring
+[href] - http://dev.housetrip.com/2014/10/20/learning-to-rank
+[href] - http://dev.housetrip.com/2014/09/29/search-page-performance
+[href] - http://dev.housetrip.com/2014/09/20/resn-routemaster
+[href] - http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern
+[href] - http://dev.housetrip.com/2014/09/12/writing-specs-without-rails
+[href] - http://dev.housetrip.com/2014/08/08/compute-property-recommendations
+[href] - http://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql
+[href] - http://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku
+[href] - http://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins
+[href] - http://dev.housetrip.com/2014/06/13/go-in-ruby
+[href] - http://dev.housetrip.com/2014/05/22/page-objects
+[href] - http://dev.housetrip.com/2014/05/08/benchmark-your-gems
+[href] - http://dev.housetrip.com/2014/04/22/nested-resources-with-backbone
+[href] - http://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors
+[href] - http://dev.housetrip.com/2014/04/07/a-take-on-docs
+[href] - http://dev.housetrip.com/2014/04/01/regaining-lost-memories
+[href] - http://dev.housetrip.com/2014/03/27/rack-timer
+[href] - http://dev.housetrip.com/2014/03/24/ruby-pid-tip
+[href] - https://github.com/HouseTrip/babushka-deps/blob/master/erb/kalinka.erb
+[href] - http://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids
+[href] - http://dev.housetrip.com/2014/03/12/continuous-deployment
+[href] - http://dev.housetrip.com/2014/02/04/homogenizing-your-codebase
+[href] - http://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby
+[href] - http://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications
+[href] - http://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch
+[href] - http://dev.housetrip.com/2014/01/13/dragonfly-activerecord
+[href] - http://dev.housetrip.com/2014/01/06/rebund
+[href] - http://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us
+[href] - http://dev.housetrip.com/2013/11/15/data-tiering
+[href] - http://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir
+[href] - http://dev.housetrip.com/2013/10/29/scala-from-ruby
+[href] - http://dev.housetrip.com/2013/10/11/git-whistles
+[href] - http://dev.housetrip.com/2013/10/07/polygon-tools
+[href] - http://dev.housetrip.com/2013/10/01/faster-git-workflow
+[href] - http://dev.housetrip.com/2013/09/12/monitoring-jobs
+[href] - http://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9
+[href] - http://dev.housetrip.com/2013/08/21/testing-active-resource-models
+[href] - http://dev.housetrip.com/2013/07/02/maintaining-code-quality
+[href] - http://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx
+[href] - http://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby
+[href] - http://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha
+[href] - http://dev.housetrip.com/2013/05/20/dci-at-lrug
+[href] - http://dev.housetrip.com/2013/05/13/git-stashing
+[href] - http://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching
+[href] - http://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite
+[href] - http://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all
+[href] - http://en.wikipedia.org/wiki/Don't_repeat_yourself
+[href] - http://dev.housetrip.com/2013/04/19/mysql-order-by-null
+[href] - http://dev.housetrip.com/2012/06/15/good-looking-css-tabs
+[href] - http://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog
+[url] - [code-200] - http://dev.housetrip.com/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/
+[url] - [code-200] - http://dev.housetrip.com/2013/11/29/good-readmes/
+[url] - [code-200] - http://dev.housetrip.com/2014/01/14/session-store-and-security/
+[url] - [code-200] - http://dev.housetrip.com/2015/02/20/underscorejs-fetch/
+[href] - http://ruby-doc.org/core-2.2.0/Hash.html
+[href] - http://dev.housetrip.com/2015/02/20/underscorejs-fetch/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2015/11/25/abtesting-from-scratch/
+[url] - [code-200] - http://dev.housetrip.com/2014/09/29/search-page-performance/
+[href] - http://link.springer.com/article/10.1007%2Fs10618-008-0114-1
+[href] - http://dev.housetrip.com/2014/09/29/search-page-performance/housetrip.com/en/search-holiday-apartments/london
+[href] - http://dev.housetrip.com/images/2014-09-10-search-page-performance-front-end.png
+[href] - http://dev.housetrip.com/images/2014-09-10-search-page-performance-backend.png
+[href] - http://dev.housetrip.com/images/2014-09-10-search-page-performance-backend_details.png
+[href] - http://dev.housetrip.com/images/2014-09-10-search-page-performance-filters.png
+[href] - http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html
+[href] - http://dev.housetrip.com/2014/09/29/search-page-performance/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/10/20/learning-to-rank/
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/abtestingexample.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/table.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/populationA.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/populationB.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/binomial_formula.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/binomial_example.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/ab_testing_binomial_distributions.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt1.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt2.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt3.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/clt4.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/quantitative_evaluation1.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/quantitative_evaluation2.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_1.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_2.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_3.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_4.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/type_i_and_ii_5.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size1.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size2.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size3.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size4.png
+[href] - http://dev.housetrip.com/images/2015-11-25-abtesting-from-scratch/sample_size5.png
+[href] - https://en.wikipedia.org/wiki/A/B_testing
+[href] - https://en.wikipedia.org/wiki/Urn_problem
+[href] - https://en.wikipedia.org/wiki/Binomial_distribution
+[href] - https://en.wikipedia.org/wiki/Probability_mass_function
+[href] - https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
+[href] - https://en.wikipedia.org/wiki/Central_limit_theorem
+[href] - https://en.wikipedia.org/wiki/P-value
+[href] - https://en.wikipedia.org/wiki/Quantile
+[href] - https://en.wikipedia.org/wiki/Binomial_test
+[href] - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444174/
+[href] - http://dev.housetrip.com/2015/11/25/abtesting-from-scratch/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/08/08/compute-property-recommendations/
+[href] - http://www.recsyswiki.com/wiki/MovieLens
+[href] - http://en.wikipedia.org/wiki/Music_Genome_Project
+[href] - http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-hadoop-version.html
+[href] - http://wiki.apache.org/pig/UDFManual
+[href] - https://cwiki.apache.org/confluence/display/PIG/PiggyBank
+[href] - http://dev.housetrip.com/2014/08/08/compute-property-recommendations/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/
+[href] - https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+[href] - http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/09/12/writing-specs-without-rails/
+[href] - http://alistair.cockburn.us/Hexagonal+architecture
+[href] - https://github.com/HouseTrip/spec_requirer
+[href] - http://dev.housetrip.com/2014/09/12/writing-specs-without-rails/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/11/25/calendar-refactoring/
+[href] - http://books.google.co.uk/books/about/Structured_design.html?id=zMQmAAAAMAAJ
+[href] - http://books.google.co.uk/books/about/Growing_Object_Oriented_Software_Guided.html?id=QJA3dM8Uix0C
+[href] - http://foxrunsoftware.github.io/DatePicker/
+[href] - http://goo.gl/V1nNa6
+[href] - http://foxrunsoftware.github.io/DatePicker/
+[href] - http://dev.housetrip.com/2014/11/25/calendar-refactoring/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching/
+[href] - http://dev.housetrip.com/2013/05/06/fuzzily-blurrily-string-matching/feed.xml
+[href] - http://dev.housetrip.com/2014/10/20/learning-to-rank/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/09/20/resn-routemaster/
+[href] - http://en.wikipedia.org/wiki/Representational_state_transfer
+[href] - http://en.wikipedia.org/wiki/Domain-driven_design
+[href] - http://martinfowler.com/bliki/CQRS.html
+[href] - http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html
+[href] - http://en.wikipedia.org/wiki/Resource-oriented_architecture
+[href] - http://martinfowler.com/eaaCatalog/serviceLayer.html
+[href] - http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
+[href] - http://en.wikipedia.org/wiki/Eventual_consistency
+[href] - http://en.wikipedia.org/wiki/Reactor_pattern
+[href] - http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+[href] - http://en.wikipedia.org/wiki/Server-sent_events
+[href] - http://en.wikipedia.org/wiki/Eventual_consistency
+[href] - https://github.com/HouseTrip/routemaster-client
+[href] - https://github.com/HouseTrip/routemaster-drain
+[href] - http://dev.housetrip.com/2014/09/20/resn-routemaster/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/images/2013-11-24/sessions.zip
+[url] - [code-200] - http://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql/
+[url] - [code-200] - http://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku/
+[href] - https://github.com/Kloadut/dokku-pg-plugin
+[href] - http://dev.housetrip.com/2014/07/06/deploy-rails-and-postgresql-app-to-dokku/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins/
+[url] - [code-200] - http://dev.housetrip.com/2014/06/13/go-in-ruby/
+[href] - https://github.com/celluloid/celluloid/wiki/Futures
+[href] - https://github.com/lostisland/faraday/wiki/Parallel-requests
+[href] - http://dev.housetrip.com/2014/06/13/go-in-ruby/feed.xml
+[href] - http://dev.housetrip.com/2014/08/06/rails-on-docker-with-fig-and-postgresql/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/05/22/page-objects/
+[href] - http://martinfowler.com/bliki/PageObject.html
+[href] - http://dev.housetrip.com/2014/05/22/page-objects/feed.xml
+[href] - http://dev.housetrip.com/2014/06/24/breaking-down-a-rails-2-monolith-using-plugins/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/05/08/benchmark-your-gems/
+[href] - http://www.ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html
+[href] - http://dev.housetrip.com/2014/05/08/benchmark-your-gems/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/04/07/a-take-on-docs/
+[url] - [code-200] - http://dev.housetrip.com/2014/04/22/nested-resources-with-backbone/
+[href] - http://github.com/HouseTrip/guidelines
+[href] - https://github.com/HouseTrip/routemaster
+[href] - http://dev.housetrip.com/2014/04/07/a-take-on-docs/feed.xml
+[href] - http://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+[href] - http://dev.housetrip.com/2014/04/22/nested-resources-with-backbone/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors/
+[href] - http://dev.housetrip.com/blobs/2014-04-05/f1-race-results.zip
+[href] - https://en.wikipedia.org/wiki/AJAJ
+[href] - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Same_origin_policy_for_JavaScript
+[href] - http://www.w3.org/TR/cors/
+[href] - http://www.w3.org/TR/access-control/
+[href] - http://www.w3.org/TR/cors/
+[href] - http://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html
+[href] - http://dev.housetrip.com/2014/04/17/unleash-your-ajax-requests-with-cors/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/04/01/regaining-lost-memories/
+[href] - http://dev.housetrip.com/2014/04/01/regaining-lost-memories/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/03/12/continuous-deployment/
+[href] - http://dev.housetrip.com/2014/03/12/continuous-deployment/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/03/27/rack-timer/
+[href] - http://dev.housetrip.com/2014/03/27/rack-timer/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids/
+[href] - http://dev.housetrip.com/2014/03/17/ruby-installations-on-steroids/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/03/24/ruby-pid-tip/
+[href] - https://github.com/HouseTrip/babushka-deps/blob/master/erb/kalinka.erb
+[href] - https://github.com/HouseTrip/babushka-deps/blob/f6c016eff2cd9ec7dae846c8eabf4de45f10ae17/lib/single_run_protector.rb
+[href] - http://dev.housetrip.com/2014/03/24/ruby-pid-tip/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/02/04/homogenizing-your-codebase/
+[href] - https://github.com/HouseTrip/guidelines/blob/master/ruby.md
+[href] - https://github.com/HouseTrip/ruby-style-guide
+[href] - https://github.com/HouseTrip/guidelines/blob/master/rails.md
+[href] - https://github.com/HouseTrip/guidelines/blob/master/sass-css.md
+[href] - https://github.com/HouseTrip/guidelines/blob/master/javascript.md
+[href] - https://github.com/HouseTrip/guidelines/blob/master/backbone.md
+[href] - http://dev.housetrip.com/2014/02/04/homogenizing-your-codebase/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby/
+[href] - https://github.com/HouseTrip/remote_lock
+[href] - http://dev.housetrip.com/2014/01/28/efficient-cross-processing-locking-in-ruby/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications/
+[href] - https://github.com/HouseTrip/sass-style-guide
+[href] - http://en.wikipedia.org/wiki/You_aren't_gonna_need_it
+[href] - https://github.com/HouseTrip/backbone-style-guide
+[href] - http://dev.housetrip.com/2014/01/20/using-backbone-js-in-non-single-page-applications/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/13/dragonfly-activerecord/
+[url] - [code-200] - http://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch/
+[href] - http://en.wikipedia.org/wiki/Design_Patterns
+[href] - http://en.wikipedia.org/wiki/Singleton_pattern
+[href] - http://ruby-doc.org/stdlib-2.1.0/libdoc/singleton/rdoc/Singleton.html
+[href] - http://www.ruby-doc.org/core-2.1.0/ObjectSpace.html
+[href] - http://dev.housetrip.com/2014/01/16/make-a-singleton-from-scratch/feed.xml
+[href] - http://dev.housetrip.com/2014/01/13/dragonfly-activerecord/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us/
+[href] - http://dev.housetrip.com/2013/11/26/legacy-wont-be-the-end-of-us/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2014/01/06/rebund/
+[href] - http://dev.housetrip.com/2014/01/06/rebund/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/11/15/data-tiering/
+[href] - http://en.wikipedia.org/wiki/Multiple_buffering
+[href] - http://dev.housetrip.com/2013/11/15/data-tiering/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir/
+[href] - http://dev.housetrip.com/2013/11/08/work-on-multiple-branches-with-git-workdir/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/10/29/scala-from-ruby/
+[href] - https://github.com/Karlotcha
+[href] - https://github.com/Karlotcha
+[href] - http://dev.housetrip.com/2013/10/29/scala-from-ruby/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/10/11/git-whistles/
+[href] - http://dev.housetrip.com/2013/10/11/git-whistles/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/10/01/faster-git-workflow/
+[href] - http://dev.housetrip.com/2013/10/01/faster-git-workflow/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/09/12/monitoring-jobs/
+[href] - https://www.ruby-toolbox.com/categories/Background_Jobs
+[href] - https://en.wikipedia.org/wiki/Nice_(Unix)
+[href] - https://github.com/mperham/sidekiq/wiki/Batches
+[href] - http://dev.housetrip.com/2013/09/12/monitoring-jobs/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9/
+[href] - http://dev.housetrip.com/2013/09/12/maintaining-session-data-from-ruby-1.8-in-1.9/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/10/07/polygon-tools/
+[href] - http://dev.housetrip.com/2013/10/07/polygon-tools/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/07/02/maintaining-code-quality/
+[href] - https://github.com/HouseTrip/ruby-style-guide
+[href] - https://github.com/HouseTrip/css-style-guide
+[href] - https://github.com/HouseTrip/rails-style-guide
+[href] - http://dev.housetrip.com/2013/07/02/maintaining-code-quality/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/08/21/testing-active-resource-models/
+[href] - http://dev.housetrip.com/2013/08/21/testing-active-resource-models/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx/
+[href] - http://dev.housetrip.com/2013/06/21/pow-with-nginx-ssl-on-osx/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby/
+[url] - [code-200] - http://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha/
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/test/controller/session/cookie_store_test.rb
+[href] - https://github.com/dchelimsky/RSpec-Rails/blob/v1.3.4/lib/spec/Rails/example/cookies_proxy.rb
+[href] - https://github.com/dchelimsky/RSpec-Rails/blob/v1.3.4/lib/spec/Rails/example/functional_example_group.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/lib/action_controller/test_case.rb
+[href] - https://github.com/Rails/Rails/blob/2-3-stable/actionpack/lib/action_controller/test_process.rb
+[href] - http://dev.housetrip.com/2013/05/22/ruby19-rail2-rspec-cookie-gotcha/feed.xml
+[href] - http://dev.housetrip.com/2013/06/06/runtime-extends-with-ruby/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/05/20/dci-at-lrug/
+[href] - http://dev.housetrip.com/2013/05/20/dci-at-lrug/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog/
+[href] - http://dev.housetrip.com/2012/05/18/annoucing-the-new-housetrip-developers-blog/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/04/19/mysql-order-by-null/
+[href] - http://dev.housetrip.com/2013/04/19/mysql-order-by-null/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite/
+[href] - http://dev.housetrip.com/2013/04/29/mrd-speedup-your-test-suite/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/05/13/git-stashing/
+[href] - http://dev.housetrip.com/2013/05/13/git-stashing/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all/
+[href] - http://en.wikipedia.org/wiki/Don't_repeat_yourself
+[href] - http://dev.housetrip.com/2013/04/20/ht-one-command-to-rule-them-all/feed.xml
+[url] - [code-200] - http://dev.housetrip.com/2012/06/15/good-looking-css-tabs/
+[href] - http://jsfiddle.net/dmiron/JU5fx/1/
+[href] - http://dev.housetrip.com/2012/06/15/good-looking-css-tabs/feed.xml

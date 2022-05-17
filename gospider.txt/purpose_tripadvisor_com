@@ -1,0 +1,89 @@
+[robots] - https://purpose.tripadvisor.com/config
+[robots] - https://purpose.tripadvisor.com/search
+[robots] - https://purpose.tripadvisor.com/account$
+[robots] - https://purpose.tripadvisor.com/account/
+[robots] - https://purpose.tripadvisor.com/commerce/digital-download/
+[robots] - https://purpose.tripadvisor.com/api/
+[robots] - https://purpose.tripadvisor.com/api/ui-extensions/
+[robots] - https://purpose.tripadvisor.com/static/
+[robots] - https://purpose.tripadvisor.com/config
+[robots] - https://purpose.tripadvisor.com/search
+[robots] - https://purpose.tripadvisor.com/account$
+[robots] - https://purpose.tripadvisor.com/account/
+[robots] - https://purpose.tripadvisor.com/commerce/digital-download/
+[robots] - https://purpose.tripadvisor.com/api/
+[robots] - https://purpose.tripadvisor.com/api/ui-extensions/
+[robots] - https://purpose.tripadvisor.com/static/
+[robots] - https://purpose.tripadvisor.com/config
+[robots] - https://purpose.tripadvisor.com/search
+[robots] - https://purpose.tripadvisor.com/account$
+[robots] - https://purpose.tripadvisor.com/account/
+[robots] - https://purpose.tripadvisor.com/commerce/digital-download/
+[robots] - https://purpose.tripadvisor.com/api/
+[robots] - https://purpose.tripadvisor.com/api/ui-extensions/
+[robots] - https://purpose.tripadvisor.com/static/
+[robots] - https://purpose.tripadvisor.com/config
+[robots] - https://purpose.tripadvisor.com/search
+[robots] - https://purpose.tripadvisor.com/account$
+[robots] - https://purpose.tripadvisor.com/account/
+[robots] - https://purpose.tripadvisor.com/commerce/digital-download/
+[robots] - https://purpose.tripadvisor.com/api/
+[robots] - https://purpose.tripadvisor.com/api/ui-extensions/
+[robots] - https://purpose.tripadvisor.com/static/
+[url] - [code-200] - https://www.purpose.tripadvisor.com/
+[href] - https://www.purpose.tripadvisor.com/
+[href] - https://images.squarespace-cdn.com/content/v1/5ef4c79e95d4bd55f7c41d41/1604514721876-MFYV44RYLHEQ57RLPMW1/favicon.ico?format=100w
+[href] - https://www.purpose.tripadvisor.com
+[href] - http://static1.squarespace.com/static/5ef4c79e95d4bd55f7c41d41/t/5ef4d2b00e809318fdf07afe/1643040357337/Tripadvisor_Logo_circle-green_horizontal-lockup_registered_RGB.png?format=1500w
+[href] - https://images.squarespace-cdn.com
+[href] - https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700
+[href] - https://static1.squarespace.com/static/versioned-site-css/5ef4c79e95d4bd55f7c41d41/61/5c5a519771c10ba3470d8101/5ef4c79f95d4bd55f7c41d66/1223/site.css
+[href] - https://www.purpose.tripadvisor.com/cart
+[href] - https://purpose.tripadvisor.com
+[href] - https://www.purpose.tripadvisor.com/diversity
+[href] - https://www.purpose.tripadvisor.com/social-impact
+[href] - https://www.tripadvisor.com/blog/travalyst-the-next-step-in-our-commitment-to-driving-positive-change-in-travel-us/
+[href] - https://www.tripadvisor.com/blog/animal-welfare-education-portal/
+[href] - https://tripadvisor.mediaroom.com/us-about-us
+[href] - https://tripadvisor.mediaroom.com/us-contact-us
+[href] - https://tripadvisor.mediaroom.com/us-resources
+[href] - https://www.tripadvisor.com/careers/
+[href] - http://ir.tripadvisor.com/
+[href] - https://tripadvisor.mediaroom.com/us-content-integrity-policy
+[href] - https://www.tripadvisor.com/UserReview
+[href] - https://www.tripadvisor.com/MemberProfile
+[href] - https://www.tripadvisor.com/TravelersChoice
+[href] - https://www.tripadvisor.com/Insurance
+[href] - https://www.tripadvisor.com/help
+[href] - http://info.evidon.com/pub_info/451?v=1&nt=0
+[href] - https://www.tripadvisor.com/Owners?m=58397
+[href] - https://www.tripadvisor.com/business/businessadvantage?args=-m57398
+[href] - https://www.tripadvisor.com/business/sponsored-placements?args=-m58399
+[href] - https://www.tripadvisor.com/MediaKit
+[href] - https://www.tripadvisor.com/Affiliates
+[href] - https://www.tripadvisor.com/ShowUrl-a_partnerKey.1-a_url.http%3A__2F____2F__itunes__2E__apple__2E__com__2F__us__2F__app__2F__tripadvisor__2F__id284876795__3F__mt%3D8__26__pt%3D14124__26__ct%3DBrand__5F__AppPage__5F__0__5F__63742-a_urlKey.f72bae0add77e606d.html
+[href] - https://www.tripadvisor.com/ShowUrl-a_partnerKey.1-a_url.https%3A__2F____2F__play__2E__google__2E__com__2F__store__2F__apps__2F__details__3F__id%3Dcom__2E__tripadvisor__2E__tripadvisor__26__hl%3Den__26__referrer%3Dutm__5F__download__5F__tracking%253DBrand__5F__AppPage__5F__0__5F__63742-a_urlKey.70bb05c81415ae292.html
+[href] - http://www.tripadvisor.com
+[href] - https://tripadvisor.mediaroom.com/us-terms-of-use
+[href] - https://tripadvisor.mediaroom.com/us-privacy-policy
+[javascript] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js
+[javascript] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-d41d8cd98f00b204e9800998ecf8427e-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-df0bcb3fb161c9761a2a8-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-d41d8cd98f00b204e9800998ecf8427e-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ffebe74ab4e46c76dc704-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-1e73b503a0c232852d888-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-e6560a8a0929760a4a9e9-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/performance-496e3739d1c4053c9ea16-min.en-US.js
+[javascript] - https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.e8045ec73f2e25c5dfb56c33a3c7d1d7.js
+[url] - [code-200] - https://www.purpose.tripadvisor.com/search
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ffebe74ab4e46c76dc704-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-1e73b503a0c232852d888-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js
+[url] - [code-200] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-e6560a8a0929760a4a9e9-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-d41d8cd98f00b204e9800998ecf8427e-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js

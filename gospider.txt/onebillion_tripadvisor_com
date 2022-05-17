@@ -1,0 +1,76 @@
+[robots] - https://onebillion.tripadvisor.com/config
+[robots] - https://onebillion.tripadvisor.com/search
+[robots] - https://onebillion.tripadvisor.com/account$
+[robots] - https://onebillion.tripadvisor.com/account/
+[robots] - https://onebillion.tripadvisor.com/commerce/digital-download/
+[robots] - https://onebillion.tripadvisor.com/api/
+[robots] - https://onebillion.tripadvisor.com/api/ui-extensions/
+[robots] - https://onebillion.tripadvisor.com/static/
+[robots] - https://onebillion.tripadvisor.com/config
+[robots] - https://onebillion.tripadvisor.com/search
+[robots] - https://onebillion.tripadvisor.com/account$
+[robots] - https://onebillion.tripadvisor.com/account/
+[robots] - https://onebillion.tripadvisor.com/commerce/digital-download/
+[robots] - https://onebillion.tripadvisor.com/api/
+[robots] - https://onebillion.tripadvisor.com/api/ui-extensions/
+[robots] - https://onebillion.tripadvisor.com/static/
+[robots] - https://onebillion.tripadvisor.com/config
+[robots] - https://onebillion.tripadvisor.com/search
+[robots] - https://onebillion.tripadvisor.com/account$
+[robots] - https://onebillion.tripadvisor.com/account/
+[robots] - https://onebillion.tripadvisor.com/commerce/digital-download/
+[robots] - https://onebillion.tripadvisor.com/api/
+[robots] - https://onebillion.tripadvisor.com/api/ui-extensions/
+[robots] - https://onebillion.tripadvisor.com/static/
+[robots] - https://onebillion.tripadvisor.com/config
+[robots] - https://onebillion.tripadvisor.com/search
+[robots] - https://onebillion.tripadvisor.com/account$
+[robots] - https://onebillion.tripadvisor.com/account/
+[robots] - https://onebillion.tripadvisor.com/commerce/digital-download/
+[robots] - https://onebillion.tripadvisor.com/api/
+[robots] - https://onebillion.tripadvisor.com/api/ui-extensions/
+[robots] - https://onebillion.tripadvisor.com/static/
+[url] - [code-200] - https://www.onebillion.tripadvisor.com/
+[href] - https://www.onebillion.tripadvisor.com/
+[href] - https://images.squarespace-cdn.com/content/v1/61ef398a6375b65e52cc0922/4badee3d-e09f-46b4-a2f9-c76b17797a5b/favicon.ico
+[href] - https://www.onebillion.tripadvisor.com
+[href] - http://static1.squarespace.com/static/61ef398a6375b65e52cc0922/t/61f99bac72e9317c006f053d/1643748268875/Sharing+link.png?format=1500w
+[href] - https://images.squarespace-cdn.com
+[href] - https://fonts.googleapis.com/css2?family=Poppins:wght@500;700
+[href] - https://static1.squarespace.com/static/versioned-site-css/61ef398a6375b65e52cc0922/176/5c5a519771c10ba3470d8101/61ef398a6375b65e52cc093b/1222/site.css
+[href] - https://www.onebillion.tripadvisor.com/cart
+[href] - https://onebillion.tripadvisor.com
+[href] - https://www.tripadvisor.com/UserReview
+[href] - http://instagram.com/tripadvisor
+[href] - https://twitter.com/Tripadvisor
+[href] - https://www.facebook.com/Tripadvisor/
+[href] - https://tripadvisor.mediaroom.com/us-terms-of-use
+[href] - https://tripadvisor.mediaroom.com/us-privacy-policy
+[javascript] - https://use.typekit.net/ik/fgP5xyJHm_CzlTKCo4B4CXKyG7OLdwqDRQ9k3_65A7CfezM2fFHN4UJLFRbh52jhWDjUZAjD5QyyFRwaFAJhFA9uwcFRw2qkwy7YMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0jc8Cde8zdKoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8Oe4TdeUTdht0SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifUzdcmK-AUC-AN0O1sk-WgyZYZTShNkOcFzdPUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaikoK-AUC-AN0O1FUiABkZWF3jAF8OcFzdPUaiaS0dho8jc8Cde8zdKoXSc83jAsh-WFzSKoRdhXCiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXK2YgkdayTdAIldcNhjPG4fHvgIMMjgfMfH6qJK3IbMg6YJMJ7fbK3MsMMeMt6MKG4fJ3gIMMjIPMfqMe7kpfVg6.js
+[javascript] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js
+[javascript] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-3b32196fd63237cb77125-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-df0bcb3fb161c9761a2a8-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-ac5d1bbd5d874f86c9e4f-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-21627972afe15f645442b-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-cf135d8a8431db3e0e261-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/common-fe3dfde04a6484a7cee55-min.en-US.js
+[javascript] - https://assets.squarespace.com/universal/scripts-compressed/performance-496e3739d1c4053c9ea16-min.en-US.js
+[javascript] - https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.7dc978a6b4650d099c502385bd881929.js
+[url] - [code-200] - https://www.onebillion.tripadvisor.com/search
+[url] - [code-200] - https://use.typekit.net/ik/fgP5xyJHm_CzlTKCo4B4CXKyG7OLdwqDRQ9k3_65A7CfezM2fFHN4UJLFRbh52jhWDjUZAjD5QyyFRwaFAJhFA9uwcFRw2qkwy7YMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0jc8Cde8zdKoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8Oe4TdeUTdht0SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifUzdcmK-AUC-AN0O1sk-WgyZYZTShNkOcFzdPUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaikoK-AUC-AN0O1FUiABkZWF3jAF8OcFzdPUaiaS0dho8jc8Cde8zdKoXSc83jAsh-WFzSKoRdhXCiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXK2YgkdayTdAIldcNhjPG4fHvgIMMjgfMfH6qJK3IbMg6YJMJ7fbK3MsMMeMt6MKG4fJ3gIMMjIPMfqMe7kpfVg6.js
+[url] - [code-200] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js
+[url] - [code-405] - https://onebillion.tripadvisor.com/commerce/digital-download/
+[url] - [code-200] - https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.7dc978a6b4650d099c502385bd881929.js
+[url] - [code-200] - https://assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-ac5d1bbd5d874f86c9e4f-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-fe3dfde04a6484a7cee55-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-3b32196fd63237cb77125-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-df0bcb3fb161c9761a2a8-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-21627972afe15f645442b-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/performance-496e3739d1c4053c9ea16-min.en-US.js
+[url] - [code-200] - https://assets.squarespace.com/universal/scripts-compressed/common-vendors-cf135d8a8431db3e0e261-min.en-US.js

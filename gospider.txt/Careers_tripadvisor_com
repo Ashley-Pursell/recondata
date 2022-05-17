@@ -1,0 +1,102 @@
+[robots] - https://Careers.tripadvisor.com/*/phenomtrack.min.js
+[robots] - https://Careers.tripadvisor.com/*/jobcart
+[url] - [code-200] - https://Careers.tripadvisor.com/*/phenomtrack.min.js
+[url] - [code-200] - https://Careers.tripadvisor.com
+[subdomains] - https://careers.tripadvisor.com
+[subdomains] - https://www.tripadvisor.com
+[subdomains] - https://engineering.tripadvisor.com
+[href] - https://cdn.phenompeople.com
+[href] - https://assets.phenompeople.com
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/images/laptop-1649195499870.png
+[href] - https://careers.tripadvisor.com/
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/favicon.ico
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/h/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/m/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/l/apple-touch-icon-precomposed.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/l/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/images/l/splash.png
+[href] - https://careers.tripadvisor.com/us/en/
+[href] - https://cdn.phenompeople.com/CareerConnectResources/globalstyles/globalstyles-1636871784821.css
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/tenantcss/main-1621841489894.css
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/tenantcss/color-css-1621841491113.css
+[href] - https://Careers.tripadvisor.com/search-results
+[href] - javascript:void(0)
+[href] - http://careers.lafourchette.com/global/en
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/bluebird.min-1.0.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-basic-4.4.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/require-4.1.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part1-4.1.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part2-4.1.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part1-4.12.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part2-4.12.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page1/ph-page-page1-1649196271347.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-loader-4.2.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/ph-tracking-1.1.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/appConfig/ph-app-config-1.9.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/scripts/1596716459414-custom.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/minified.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/vue.min-1.0_1636721870521.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/common/pcs-common-v1.17_1651130871515.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/bootstrap/ph-platform-1.17_1648211686166.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page1/caas-platform/page-views-1649196279701.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part2-4.1.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part1-4.12.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part2-4.12.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page1/caas-platform/page-views-1649196279701.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-basic-4.4.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page1/ph-page-page1-1649196271347.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part1-4.1.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/vue.min-1.0_1636721870521.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/minified.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/prod/TRINUS/en_us/desktop/assets/scripts/1596716459414-custom.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/require-4.1.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-loader-4.2.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/ph-tracking-1.1.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/appConfig/ph-app-config-1.9.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/bootstrap/ph-platform-1.17_1648211686166.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/bluebird.min-1.0.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/common/pcs-common-v1.17_1651130871515.js
+[url] - [code-200] - https://Careers.tripadvisor.com/search-results
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/common/image_gallery/search-results-banner-1549547782827.jpg
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/tenantcss/page/en_us/external/desktop/page16/main-critical-css-1640078029128.css
+[href] - https://careers.tripadvisor.com/search-results?from=50&s=1
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/favicon.ico
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/h/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/m/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/l/apple-touch-icon-precomposed.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/l/apple-touch-icon.png
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/images/l/splash.png
+[href] - https://Careers.tripadvisor.com/search-results
+[href] - https://Careers.tripadvisor.com/search-results
+[href] - https://Careers.tripadvisor.com/search-results
+[href] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/tenantcss/page/en_us/external/desktop/page16/main-critical-css-1640078027747.css
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/bluebird.min-1.0.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-basic-4.2.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/require-4.1.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part1-4.1.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part2-4.1.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part1-4.3.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part2-4.3.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/page-scripts/ph-page-1638519014998.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-loader-4.2.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/ph-tracking-1.1.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/appConfig/ph-app-config-1.9.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/scripts/1596716459414-custom.js?v=1
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/minified.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/vendor/vue.min-1.0_1636721870521.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/common/pcs-common-v1.17_1651130871515.js
+[javascript] - https://cdn.phenompeople.com/CareerConnectResources/common/js/caas-platform/bootstrap/ph-platform-1.17_1648211686166.js?v=1
+[javascript] - https://assets.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page16/caas-platform/page-views-1603267886606.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-basic-4.2.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/bluebird.min-1.0.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part1-4.1.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/vendor-bundle-part2-4.1.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/assets/scripts/1596716459414-custom.js?v=1
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/require-4.1.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part1-4.3.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/common/ph-common-bundle-part2-4.3.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/vendor/ph-loader-4.2.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/appConfig/ph-app-config-1.9.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/common/js/ph-tracking-1.1.js
+[url] - [code-200] - https://cdn.phenompeople.com/CareerConnectResources/TRINUS/page-scripts/ph-page-1638519014998.js
+[url] - [code-200] - https://assets.phenompeople.com/CareerConnectResources/TRINUS/en_us/desktop/page16/caas-platform/page-views-1603267886606.js
