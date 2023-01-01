@@ -1,2 +1,2 @@
 # recondata
-recon data for tripadvisor
+recon data for amazon
